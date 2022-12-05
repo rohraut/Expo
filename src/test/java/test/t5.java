@@ -5,7 +5,7 @@ public class t5 {
 	static int y =0;
 	 static int  z =x/y;
 	public static void main(String[] args) {
-		System.out.println(z);
+		System.out.println(z)
 		
 		
 		
